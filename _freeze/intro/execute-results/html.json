@@ -1,7 +1,7 @@
 {
-  "hash": "c96b26a192d7a385413ca17adf054c32",
+  "hash": "f5ed0a7da82ed2b6a2012805844d2c88",
   "result": {
-    "markdown": "# Introduction\n\nThis is a book created from markdown and executable code.\nWhat happens when you edit it?\n\nSee @knuth84 for additional discussion of literate programming.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "markdown": "# Introduction\n\nThis is a book created from markdown and executable code.\nOk that worked but now we will edit again.\n\nSee @knuth84 for additional discussion of literate programming.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
     "supporting": [
       "intro_files"
     ],
