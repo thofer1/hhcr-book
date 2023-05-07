@@ -1,8 +1,10 @@
 {
-  "hash": "e514ad799b2b10ced9d02b36ca26bbd2",
+  "hash": "c96b26a192d7a385413ca17adf054c32",
   "result": {
-    "markdown": "# Introduction\n\nThis is a book created from markdown and executable code.\n\nSee @knuth84 for additional discussion of literate programming.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
-    "supporting": [],
+    "markdown": "# Introduction\n\nThis is a book created from markdown and executable code.\nWhat happens when you edit it?\n\nSee @knuth84 for additional discussion of literate programming.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [
+      "intro_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
